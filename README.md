@@ -18,5 +18,20 @@
         暂停，选择关卡，重新开始
 	
 * ***项目素材***
-* ***项目效果图***	
+	+ **方块素材**		
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/1.jpg?raw=true)	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/2.jpg?raw=true)	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/3.jpg?raw=true)	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/4.jpg?raw=true)	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/5.jpg?raw=true)		
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/6.jpg?raw=true)		
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/7.jpg?raw=true)		
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/8.jpg?raw=true)
+	+	**界面素材**	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/background1.jpg?raw=true)
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/background2.jpg?raw=true)
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/background3.jpg?raw=true)
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/gameover.jpg?raw=true)	
+	![图片素材](https://github.com/Hzzone/TetrisGame/blob/master/TetrisGame/images/background4.JPG?raw=true)
+* ***项目效果图***	
 
